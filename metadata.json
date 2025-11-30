@@ -1,0 +1,8 @@
+{
+  "name": "Coursue AI",
+  "description": "A modern, AI-powered learning management dashboard featuring Gemini 2.5 Flash for image editing and search, and Gemini 3 Pro for advanced reasoning and chat.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
